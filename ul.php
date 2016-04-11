@@ -1,0 +1,1 @@
+UPDATE  `archvis_ch`.`light` SET  `state` =  'on' WHERE  `light`.`id` =1;
